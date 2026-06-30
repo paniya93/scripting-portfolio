@@ -5,7 +5,7 @@ A collection of automation scripts written in **Python**, **Perl**, and **Bash**
 ## Scripts
 
 ### Python
-- `poe_log_analyzer.py` – Game log parser (Path of Exile)
+- `poe_log_analyzer.py` – Log parser (Path of Exile)
 - `file_processor.py` – General CSV/Text file processor
 - `system_monitor.py` – System resource monitoring
 
